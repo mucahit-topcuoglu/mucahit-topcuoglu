@@ -27,10 +27,8 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔐 [AES & SHA256 Cryptography App](https://github.com/mucahit-topcuoglu/aes-sha256-app) – A C# encryption & hashing tool  
-- 🍽️ [Dotnet-Dietitian](https://github.com/mucahit-topcuoglu/dotnet-dietitian) – A layered .NET-based dietitian web app  
-- 📊 [C# Desktop App](https://github.com/mucahit-topcuoglu/csharp-desktop-project) – A SQL Server-backed desktop solution
-
+- 🔐 [AES & SHA256 Cryptography App](https://github.com/mucahit-topcuoglu/KriptografiWebTool) – A C# encryption & hashing tool  
+- 🍽️ [Dotnet-Dietitian](https://github.com/ibrahimkahramann/Dotnet-Dietitian) – A layered .NET-based dietitian web app  
 ---
 
 ### 📈 GitHub Stats
