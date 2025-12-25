@@ -31,21 +31,6 @@
 - 🍽️ [Dotnet-Dietitian](https://github.com/ibrahimkahramann/Dotnet-Dietitian) – A layered .NET-based dietitian web app  
 ---
 
-### 📈 GitHub Stats
-<div align="center"> 
-  <a href="#"> 
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mucahit-topcuoglu&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/> 
-  </a> 
-  <a href="#"> 
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahit-topcuoglu&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/> 
-  </a>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mucahit-topcuoglu&theme=transparent&ring=007acc&fire=007acc&currStreakLabel=007acc" />
-  <br />
-</div>
-
----
-
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/mucahit-topcuoglu/" target="_blank">
